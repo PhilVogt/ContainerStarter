@@ -6,4 +6,4 @@ This example assumes you have already [set up your development environment](http
 
 ## Getting Started
 
-There are 2 steps to this process. One, getting Kibana and Elastic search installed, please see the [Elastic Search readme](ElasticSearch.md) file for the details on that. Secondly, see the [OpenFin Test Application readme](openfin.md) for details on running the test application. The test application will send CPU and Memory usage to ElasticSearch and we can use Kibana to create a dashboard to visualise this in realtime.
+There are 2 steps to this process. One, getting Kibana and Elastic search installed, please see the [Elastic Search readme](ElasticSearch.md) file for the details on that. Secondly, see the [OpenFin Test Application readme](OpenFin.md) for details on running the test application. The test application will send CPU and Memory usage to ElasticSearch and we can use Kibana to create a dashboard to visualise this in realtime.
