@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-1. Install dependencies. Note that these examples assume you are in the sub-directory for the example.
+1. Install dependencies.
 
 ```bash
 $ npm install
